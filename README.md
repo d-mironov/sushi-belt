@@ -1,5 +1,9 @@
 # sushi-belt 🍣
 
+[![crates.io](https://img.shields.io/crates/v/sushi-belt)](https://crates.io/crates/sushi-belt)
+[![docs.rs](https://img.shields.io/docsrs/sushi-belt)](https://docs.rs/sushi-belt)
+[![CI](https://github.com/d-mironov/sushi-belt/actions/workflows/ci.yml/badge.svg)](https://github.com/d-mironov/sushi-belt/actions/workflows/ci.yml)
+
 **A fixed-capacity ring buffer for embedded Rust, written entirely in safe code.**
 
 Think of a conveyor belt at a sushi bar. It has a fixed number of spots, plates come off in the order they went on, and when every spot is taken, the next plate has to wait.
