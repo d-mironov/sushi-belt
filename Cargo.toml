@@ -5,6 +5,7 @@ edition = "2024"
 rust-version = "1.85"
 license = "MIT"
 repository = "https://github.com/d-mironov/sushi-belt"
+documentation = "https://docs.rs/sushi-belt"
 description = "A fixed-capacity ring buffer for embedded Rust, written entirely in safe code"
 readme = "README.md"
 keywords = ["ring-buffer", "circular-buffer", "fifo", "no-std", "embedded"]

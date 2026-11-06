@@ -13,6 +13,8 @@ Think of a conveyor belt at a sushi bar. It has a fixed number of spots, plates 
 - **Any element type:** `T` doesn't need to be `Copy`, `Clone` or `Default` for `push` and `pop`.
 - **Optional `defmt` support:** log errors efficiently on embedded targets.
 
+The full API reference is on [docs.rs](https://docs.rs/sushi-belt).
+
 ## Quick start
 
 ```toml
